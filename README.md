@@ -1,5 +1,4 @@
 # Bioinformatician
-
 #### Ukrainian bioinformatician specializing in metagenomics
 
 ## Education
@@ -8,6 +7,7 @@
 - B.A., Biology	| National Taras Shevchenko University of Kyiv	Kyiv, Ukraine (_2009_)
 
 ### Recent Work Experience (Last 5 Years)
+
 **PHD Student @ University of Tartu (_Aug 2022 - Present_)**
 - Developing Metagenome-Assembled Genome database for Estonian population human gut samples.
 
