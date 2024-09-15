@@ -3,21 +3,21 @@
 
 ### Education
 
-2011 | <i>M.S. Biology</i>National Taras Shevchenko University of Kyiv, Kyiv, Ukraine
-2011 | <i>M.S. Nanobiotechnology</i>Lomonosov Moscow State University, Moscow, Russia
-2009 | <i>B.A. Biology</i>National Taras Shevchenko University of Kyiv, Kyiv, Ukraine 
+2011 | <i>M.S. Biology </i>National Taras Shevchenko University of Kyiv, Kyiv, Ukraine
+2011 | <i>M.S. Nanobiotechnology </i>Lomonosov Moscow State University, Moscow, Russia
+2009 | <i>B.A. Biology </i>National Taras Shevchenko University of Kyiv, Kyiv, Ukraine 
 
 ### Recent Work Experience (Last 5 Years)
 
-Aug 2022 - Present | <i>PHD Student</i>University of Tartu. Developing Metagenome-Assembled Genome database for Estonian population human gut samples.
-Mar 2022 - Aug 2022 | <i>Bioinformatician</i> University of Tartu. Human gut metagenome analysis.
-Apr 2021 - Sep 2024 | <i>Co-Founder</i> SciBear. The SciBear team analyzes all types of microbial genome sequencing data. We are ready to take on high-quality data processing of your sequences.
-Oct 2019 - Mar 2022 | <i>Head of DHI milk laboratory</i> Agroplem JSC. The SciBear team analyzes all types of microbial genome sequencing data. We are ready to take on high-quality data processing of your sequences.
-Nov 2018 - Oct 2019 | <i>Deputy Head genomic laboratory</i> Agroplem JSC. Laboratory management. Market analysis and offer of new products. Development of products of an animal’s genomic passport, genomic assessment of the animal’s breeding value, monogenic diseases, and DNA confirmation. Formation and training project team.
+2022 - Present | <i>PHD Student </i>University of Tartu. Developing Metagenome-Assembled Genome database for Estonian population human gut samples.
+2022 - 2022 | <i>Bioinformatician </i>University of Tartu. Human gut metagenome analysis.
+2021 - 2024 | <i>Co-Founder </i>SciBear. The SciBear team analyzes all types of microbial genome sequencing data. We are ready to take on high-quality data processing of your sequences.
+2019 - 2022 | <i>Head of DHI milk laboratory </i>Agroplem JSC. The SciBear team analyzes all types of microbial genome sequencing data. We are ready to take on high-quality data processing of your sequences.
+2018 - 2019 | <i>Deputy Head genomic laboratory </i>Agroplem JSC. Laboratory management. Market analysis and offer of new products. Development of products of an animal’s genomic passport, genomic assessment of the animal’s breeding value, monogenic diseases, and DNA confirmation. Formation and training project team.
 
 ### Research Experience
 
-Aug 2024 | <i>Visiting Researcher @ Queensland University of Technology, Centre for Microbiome Research.</i> Integrative Analysis of Multi-Omics Data: Exploring Microbiome-Metabolome Interactions
+Aug 2024 | <i>Visiting Researcher </i>Queensland University of Technology, Centre for Microbiome Research. Integrative Analysis of Multi-Omics Data: Exploring Microbiome-Metabolome Interactions
 
 ### Publications
 
