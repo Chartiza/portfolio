@@ -2,24 +2,20 @@
 > Ukrainian bioinformatician specializing in metagenomics
 
 ## Education
-**M.S. Biology** National Taras Shevchenko University of Kyiv, Kyiv, Ukraine (_2011_)  
-**M.S. Nanobiotechnology** Lomonosov Moscow State University, Moscow, Russia (_2011_) 
-**B.A. Biology** National Taras Shevchenko University of Kyiv, Kyiv, Ukraine (_2009_)  
+2011 | <i>M.S. Biology</i>National Taras Shevchenko University of Kyiv, Kyiv, Ukraine
+2011 | <i>M.S. Nanobiotechnology</i>Lomonosov Moscow State University, Moscow, Russia
+2009 | <i>B.A. Biology</i>National Taras Shevchenko University of Kyiv, Kyiv, Ukraine 
 
 ### Recent Work Experience (Last 5 Years)
-**PHD Student @ University of Tartu (_Aug 2022 - Present_)**
+Aug 2022 - Present | <i>PHD Student</i>University of Tartu.
 Developing Metagenome-Assembled Genome database for Estonian population human gut samples.
-
-**Bioinformatician @ University of Tartu (_Mar 2022 - Aug 2022_)**
+Mar 2022 - Aug 2022 | <i>Bioinformatician</i> University of Tartu.
 Human gut metagenome analysis.
-
-**Co-Founder @ SciBear (_Apr 2021 - Sep 2024_)**
+Apr 2021 - Sep 2024 | <i>Co-Founder</i> SciBear. 
 The SciBear team analyzes all types of microbial genome sequencing data. We are ready to take on high-quality data processing of your sequences.
-
-**Head of DHI milk laboratory @ Agroplem JSC (_Oct 2019 - Mar 2022_)**
+Oct 2019 - Mar 2022 | <i>Head of DHI milk laboratory</i> Agroplem JSC.
 The SciBear team analyzes all types of microbial genome sequencing data. We are ready to take on high-quality data processing of your sequences.
-
-**Deputy Head genomic laboratory @ Agroplem JSC (_Nov 2018 - Oct 2019_)**
+Nov 2018 - Oct 2019 | <i>Deputy Head genomic laboratory</i> Agroplem JSC.
 Laboratory management. Market analysis and offer of new products. Development of products of an animal’s genomic passport, genomic assessment of the animal’s breeding value, monogenic diseases, and DNA confirmation. Formation and training project team.
 
 ### Research Experience
@@ -44,7 +40,6 @@ Integrative Analysis of Multi-Omics Data: Exploring Microbiome-Metabolome Intera
 2024 | <i>Estonian Doctoral School mobility grant</i>, Research visit to Centre for Microbiome Research, Queensland University of Technology, Brisbane, Australia (€1,100)
 2024 | <i>CWT Estonia (Kaleva Travel) travel scholarship</i>, Support attendance at the 10th International Human Microbiome Consortium (IHMC) Congress 2024, Rome, Italy (€1,200)
 2024 | <i>EMBO Special Travel Grant</i>, Support attendance at the EMBO Practical Course: Integrative analysis of multi-omics data taking place at EMBL Heidelberg, Germany (€750)
-2023 | <i>Mobility grant for doctoral students of graduate school of the biomedicine and biotechnology</i>, EMBL Symposium “The human microbiome”, Heidelberg, Germany (€700)
 2023 | <i>Mobility grant for doctoral students of graduate school of the biomedicine and biotechnology</i>, EMBL Symposium “The human microbiome”, Heidelberg, Germany (€700)
 
 ### Licenses & certifications
