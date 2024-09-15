@@ -2,11 +2,8 @@
 > Ukrainian bioinformatician specializing in metagenomics
 
 ## Education
-
 M.S. Biology, National Taras Shevchenko University of Kyiv, Kyiv, Ukraine (_2011_)  
-
-M.S. Nanobiotechnology, Lomonosov Moscow State University, Moscow, Russia (_2011_)  
-
+M.S. Nanobiotechnology, Lomonosov Moscow State University, Moscow, Russia (_2011_) 
 B.A. Biology, National Taras Shevchenko University of Kyiv, Kyiv, Ukraine (_2009_)  
 
 ### Recent Work Experience (Last 5 Years)
@@ -38,33 +35,23 @@ Integrative Analysis of Multi-Omics Data: Exploring Microbiome-Metabolome Intera
 ### Honors & Awards
 
 2024 | <i>Outstanding Talk award</i>, Institute of Molecular and Cell Biology & Institute of Genomics Annual Conference 2023
-
 2024 | <i>Audience award for the Best Talk</i>, Institute of Molecular and Cell Biology & Institute of Genomics Annual Conference 2023
-
 2024 | <i>Winner of the PhD student competition</i>, Training Camp 2024: The Art of Giving a Popular Science Talk
 
 ### Grants
 
 2024 | <i>Erasmus+ Scholarship Grant</i>, Erasmus+EU programme for education, training, youth and sport (€2,100)
-
 2024 | <i>Estonian Doctoral School mobility grant</i>, Research visit to Centre for Microbiome Research, Queensland University of Technology, Brisbane, Australia (€1,100)
-
 2024 | <i>CWT Estonia (Kaleva Travel) travel scholarship</i>, Support attendance at the 10th International Human Microbiome Consortium (IHMC) Congress 2024, Rome, Italy (€1,200)
-
 2024 | <i>EMBO Special Travel Grant</i>, Support attendance at the EMBO Practical Course: Integrative analysis of multi-omics data taking place at EMBL Heidelberg, Germany (€750)
-
 2023 | <i>Mobility grant for doctoral students of graduate school of the biomedicine and biotechnology</i>, EMBO | EMBL Symposium “The human microbiome”, Heidelberg, Germany (€700)
 
 ### Licenses & certifications
 
 2024 | <i>Integrative analysis of multi-omics</i>, EMBO Practical Course, EMBL Heidelberg, Germany
-
 2023 | <i>ML4Microbiome Training School</i>, COST Association - European Cooperation in Science and Technology, Utrecht, Germany
-
 2023 | <i>Granö Research and Networking Workshop for doctoral candidates</i>, Villa Tammekann, Tartu, Estonia
-
 2022 | <i>Microbiota and Health</i>, National Doctoral Program in infections and Antibiotics (NDPIA), Gothenburg, Sweden
-
 2022 | <i>Multi-omic data science with R/BIOCONDUCTOR</i>, Health and Biosciences Doctoral Programme, University of Oulu Graduate School, Oulu, Finland.
 
 ### Teaching Experience
@@ -77,9 +64,7 @@ Teaching materials available [here](https://github.com/Chartiza/UBDS-3_2024)
 2023 | Estonian Society for Microbiology
 
 ### Creative work & science popularization
-
 2022 | Designing the Logo for Research Group “Tartu microbiome”
-
 2023 | Pantiukh, K. (2023, October 20). [Tartu genomic researcher finds 300 new bacterial species. Novaator.](https://news.err.ee/1609141072/3-minute-lecture-tartu-genomic-researcher-finds-300-new-bacterial-species)
 
 ### Conferences
