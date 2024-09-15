@@ -2,9 +2,9 @@
 > Ukrainian bioinformatician specializing in metagenomics
 
 ## Education
-M.S. Biology | National Taras Shevchenko University of Kyiv, Kyiv, Ukraine (_2011_)  
-M.S. Nanobiotechnology | Lomonosov Moscow State University, Moscow, Russia (_2011_) 
-B.A. Biology | National Taras Shevchenko University of Kyiv, Kyiv, Ukraine (_2009_)  
+**M.S. Biology** National Taras Shevchenko University of Kyiv, Kyiv, Ukraine (_2011_)  
+**M.S. Nanobiotechnology** Lomonosov Moscow State University, Moscow, Russia (_2011_) 
+**B.A. Biology** National Taras Shevchenko University of Kyiv, Kyiv, Ukraine (_2009_)  
 
 ### Recent Work Experience (Last 5 Years)
 **PHD Student @ University of Tartu (_Aug 2022 - Present_)**
@@ -44,6 +44,7 @@ Integrative Analysis of Multi-Omics Data: Exploring Microbiome-Metabolome Intera
 2024 | <i>Estonian Doctoral School mobility grant</i>, Research visit to Centre for Microbiome Research, Queensland University of Technology, Brisbane, Australia (€1,100)
 2024 | <i>CWT Estonia (Kaleva Travel) travel scholarship</i>, Support attendance at the 10th International Human Microbiome Consortium (IHMC) Congress 2024, Rome, Italy (€1,200)
 2024 | <i>EMBO Special Travel Grant</i>, Support attendance at the EMBO Practical Course: Integrative analysis of multi-omics data taking place at EMBL Heidelberg, Germany (€750)
+2023 | <i>Mobility grant for doctoral students of graduate school of the biomedicine and biotechnology</i>, EMBL Symposium “The human microbiome”, Heidelberg, Germany (€700)
 2023 | <i>Mobility grant for doctoral students of graduate school of the biomedicine and biotechnology</i>, EMBL Symposium “The human microbiome”, Heidelberg, Germany (€700)
 
 ### Licenses & certifications
