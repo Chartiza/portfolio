@@ -58,6 +58,7 @@ Teaching materials available [here](https://github.com/Chartiza/UBDS-3_2024)
 2023 | Estonian Society for Microbiology
 
 ### Creative work & science popularization
+
 2022 | Designing the Logo for Research Group “Tartu microbiome”
 2023 | Pantiukh, K. (2023, October 20). [Tartu genomic researcher finds 300 new bacterial species. Novaator.](https://news.err.ee/1609141072/3-minute-lecture-tartu-genomic-researcher-finds-300-new-bacterial-species)
 
@@ -74,4 +75,3 @@ Teaching materials available [here](https://github.com/Chartiza/UBDS-3_2024)
 [dowload poster](https://github.com/Chartiza/Posters/blob/main/2023-01_PhD_conferece_FINAL.png)
 *   2022 | Microbiota and Health, National Doctoral Program in infections and Antibiotics (NDPIA), Gothenburg, Sweden
 [dowload poster](https://github.com/Chartiza/Posters/blob/main/2022-11_Microbiota_and_Health_course.pdf)
-
