@@ -1,30 +1,29 @@
 # Bioinformatician
 > Ukrainian bioinformatician specializing in metagenomics
 
-## Education
+### Education
+
 2011 | <i>M.S. Biology</i>National Taras Shevchenko University of Kyiv, Kyiv, Ukraine
 2011 | <i>M.S. Nanobiotechnology</i>Lomonosov Moscow State University, Moscow, Russia
 2009 | <i>B.A. Biology</i>National Taras Shevchenko University of Kyiv, Kyiv, Ukraine 
 
 ### Recent Work Experience (Last 5 Years)
-Aug 2022 - Present | <i>PHD Student</i>University of Tartu.
-Developing Metagenome-Assembled Genome database for Estonian population human gut samples.
-Mar 2022 - Aug 2022 | <i>Bioinformatician</i> University of Tartu.
-Human gut metagenome analysis.
-Apr 2021 - Sep 2024 | <i>Co-Founder</i> SciBear. 
-The SciBear team analyzes all types of microbial genome sequencing data. We are ready to take on high-quality data processing of your sequences.
-Oct 2019 - Mar 2022 | <i>Head of DHI milk laboratory</i> Agroplem JSC.
-The SciBear team analyzes all types of microbial genome sequencing data. We are ready to take on high-quality data processing of your sequences.
-Nov 2018 - Oct 2019 | <i>Deputy Head genomic laboratory</i> Agroplem JSC.
-Laboratory management. Market analysis and offer of new products. Development of products of an animal’s genomic passport, genomic assessment of the animal’s breeding value, monogenic diseases, and DNA confirmation. Formation and training project team.
+
+Aug 2022 - Present | <i>PHD Student</i>University of Tartu. Developing Metagenome-Assembled Genome database for Estonian population human gut samples.
+Mar 2022 - Aug 2022 | <i>Bioinformatician</i> University of Tartu. Human gut metagenome analysis.
+Apr 2021 - Sep 2024 | <i>Co-Founder</i> SciBear. The SciBear team analyzes all types of microbial genome sequencing data. We are ready to take on high-quality data processing of your sequences.
+Oct 2019 - Mar 2022 | <i>Head of DHI milk laboratory</i> Agroplem JSC. The SciBear team analyzes all types of microbial genome sequencing data. We are ready to take on high-quality data processing of your sequences.
+Nov 2018 - Oct 2019 | <i>Deputy Head genomic laboratory</i> Agroplem JSC. Laboratory management. Market analysis and offer of new products. Development of products of an animal’s genomic passport, genomic assessment of the animal’s breeding value, monogenic diseases, and DNA confirmation. Formation and training project team.
 
 ### Research Experience
-**Visiting Researcher @ Queensland University of Technology, Centre for Microbiome Research (_Aug 2024_)**
-Integrative Analysis of Multi-Omics Data: Exploring Microbiome-Metabolome Interactions
+
+Aug 2024 | <i>Visiting Researcher @ Queensland University of Technology, Centre for Microbiome Research.</i> Integrative Analysis of Multi-Omics Data: Exploring Microbiome-Metabolome Interactions
 
 ### Publications
+
 *   Krigul KL, Feeney RH, Wongkuna S, Aasmets O, Holmberg SM, Andreson R, Puértolas-Balint F, Pantiukh K, Sootak L, Org T, Tenson T, Org E, Schroeder BO. A history of repeated antibiotic usage leads to microbiota-dependent mucus defects. Gut Microbes. 2024 Jan-Dec;16(1):2377570
 [download paper](https://doi.org/10.1080/19490976.2024.2377570)
+
 *   Pantiukh K, Chekanov NN, Zaigrin IV, Zotov AM, Mazur AM, Prokhortchouk EB (2016). Report on noninvasive prenatal testing: classical and alternative approaches. F1000Res. Apr 22;5:722
 [download paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5054814/pdf/f1000research-5-8865.pdf)
 
